@@ -1,1 +1,1 @@
-# AWS Cloud Practitioner Essentials合格に向けた学習
+# AWS Cloud Practitioner Essentialsの学習メモ
